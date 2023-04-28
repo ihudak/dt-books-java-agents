@@ -1,4 +1,4 @@
-FROM --platform=linux/x86-64 eclipse-temurin:17-focal
+FROM eclipse-temurin:17-focal
 MAINTAINER dynatrace.com
 
 ENV ONE_AGENT="oneAgent"
